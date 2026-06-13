@@ -1,0 +1,346 @@
+				What is .NET(No Abbreviation)
+			1. It is a software tool, it is used to develop applications.
+
+				Visual Studio
+			2. It is a Framework, It is used to develop applications.
+				What is Framework :
+			It is the collection largescale Integrated different libs, 				which is used to develop applications.
+
+			3. It is an IDE(Integrated Development Environment)
+
+
+				 Framework
+			=======================================
+			VB	VC#	VC++     70 PLUS Languages
+			----------------------------------------
+			WinForms | Asp.net    |    Silver Light
+			----------------------------------------
+			ADO.NET(Active X Data Object)
+			----------------------------------------
+			WPF      |  WCF	      | LINQ - Entity Framework
+			----------------------------------------
+			CLR(Common Language Runtime)
+			----------------------------------------
+		VC#------->
+			What is C#,
+			What are the keywords
+			What Identifiers
+			What are the Datatypes
+			Operators
+			Structure of C#
+				Programming
+			Conditional Statements
+			if  if-else nested-if else-if ladder
+			switch, goto
+
+			Loop Control Structures
+				1.While
+				2.do-while
+				3.for
+				4.foreach
+
+			Arrays :
+				LINQ
+				1.Single Dimensional Array
+				2.Reacangular Array or Multi dimensional array
+				3.Jagged Array
+			Methods :
+				Predefined Methods
+				User-defined Methods(logic)
+			OOPS :
+				Introduction OOPS.
+				class
+				Object
+				Encapsulation
+				Abstraction
+					Polymorphism
+						Compile Time Polymorphism
+							Method Overloading
+							Operator Overloading
+							Constructor Overloading
+						Runtime Polymorphism
+							Method Overriding
+	
+				Inheritance
+					i. Single Inheritance
+					ii. Multi level Inheritance
+					iii. Multiple level Inheritance
+					iv.  Hierarchical Inheritance
+					 v.  Hybrid Inheritance
+				Error Handling
+					Compilation Errors
+					Runtime Errors
+						Exception handling
+
+				Collection Framework:
+						List ,Set , Dictionary.
+				File Handling
+	
+				Multithreading
+				Reflection
+				Delegates
+				Class Lib
+		============================================================================
+		Microsoft SQL Server(DBMS)
+			SQL
+				1.DDL
+				2.DML
+				3.DCL
+				4.TCL
+			TSQL
+				Stored Procedures
+				Triggers
+				Functions
+				views
+				Indexers
+				etc...
+	==================================================================
+	WindowsForms : All Controls 2 Application development
+	=====================================================================
+		ADO.NET(Active X Data Object)
+			Connected Oriented Architecture
+			Dis-Connected Oriented Architecture.
+		Entity Framework / LINQ
+	======================================================================
+	Asp.net Web Forms
+		Toolbox
+		Master Page
+		state-management
+			1.Client Side State
+			2.Server Side Stat
+	========================================================================
+	Asp.net Core MVC(Model View Controller) With EF
+	Razor view
+	Controllers
+	Models
+	Views
+	CRUD Application
+	=======================================================================
+	Asp.net Core WebApi
+	How To Create REST API
+	Asp.net Core WebApi with DataDB(EF)
+	DI
+	IOC
+	Middlewares
+
+	REST API    <-------->      REACT
+	CRUD Application
+	===================================================================
+				Project
+	=======================================================================
+	git hub
+	Agile
+	scrum
+	 sprint
+	 standup call
+	 client call
+	story board
+			Application Development
+	==========================================================================
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+		Asp.NET :
+				Asp.net web forms(Traditional)
+				Asp.net Core MVC
+				Asp.net Core Web API
+	
+	
+
+
+
+	
+
+		.NET supports 70 plus languages, In order to develop any application
+		we can use any one of the language.
+	
+		Hence .NET is language Independent.
+
+
+		WINFORMS : It is a lib which is used to develop  software applications.
+				Examples : notepad, Ms-office, games, calcy
+
+		ASP.NET : It is a server side web tech, It is used to develop dynamic web apps.
+			  It stands for Active Server Pages.
+	
+			 Web Application : Dynamics 365 CRM Applications
+
+				   Web Tech
+			1.Client Side Web Tech
+				It is used to develop static web applications.
+			2.Server Side Web Tech
+				It is used to develop dynamic web applications.
+				Ecommerce applications.
+				Web services.
+
+	Silver Light : It is a tool which is used to design animated 2D and 3D Images,
+	It is a Graphic designing tool.
+
+
+	ADO.NET(Active X Data Object) : It is a lib which used to transfer the data from
+	frontend to backed and backend to front end.
+	It is a legacy version of the .NET framework.
+	
+	ORM(Object Relational Mapper or Mapping)
+		1.Entity Framework
+		2.LINQ
+
+		Application			   DataBase(SQL SERVER),MySQL, oracle , MongoDb
+		Front End	<---ADO.NET or EF or LINQ----->  BackEnd(DBMS)
+		WinForms
+		Web
+
+
+
+	WPF : Windows Presentation Foundation : It is a lib which is used to develop software
+	application , It provides Rich User Interface , It provides touch applications.
+
+
+
+					Why .NET ?
+		It generates the code automatically 80%
+		It is easier to develop application and deploy the application in .NET.
+		It is used to develop applications.
+			i. Software
+			ii. Web Apps
+			iii. Mobile Apps
+			iv . AI and ML  other
+	
+		Teams : software web mobile
+
+   :Web Service: It is an application which provides communication between two different applications
+	using common protocols  HTTP,XML,SOAP(Simple Object Access Protocol)
+
+		    PhonePe                                BIILL DESK
+		 x application	===>WebService<===	Y application
+			HTTP				   HTTP
+			XML				   XML
+			SOAP			           SOAP
+
+
+   : Windows Communication Foundation : It is create WCF servies which  provides communction between two
+	different applications with Different Protocols , by using WCF endpoints.
+
+			X - Application	  <---WCF-- > Y - Application
+				abc->Pro		    pqr->Pro
+
+ 
+70 PLUS
+
+ CLR(Common Language Runtime) : It provides compilations and exaction environment for all .NET languages,
+				hence  it is called CLR.
+				It consists of JIT compiler , GC(Garbage Collector) , BCL(Base Class Lib).
+
+
+
+
+			   Computer Programming Languages.
+
+
+What is a Language ?
+		It is the medium of communication.
+
+Languages is the collection
+	 Alphabets, words and sentences is called language which are used for communication.
+
+Why Communication :
+		In order to complete the task.
+
+			  Computer Programming Languages
+
+               These languages can be used to develop applications.
+
+			Types
+			   1. Low Level Languages (Machine Language)
+				The languages which can be understood by the computer, computer can
+				understand the binary languages(0's and 1's)
+				Example : ALP(Assembly Language Programming)
+			   2. High Level Languages :
+				These languages can be understood by the human and can be written in
+			        English , System can't understood, These languages should be converted
+			        into machine language or ow level languages using translators.
+
+				C , C++ , Java ,Python , C# ,VB, JavaScript ,Typescript
+
+				Translators are of two types
+				   1.Compilers
+				   2.Interpreters
+				Introduction to C#
+
+	1. What is C# ?
+		It is a high level programming language.
+		It was developed Microsoft Org.
+		It is a case sensitive language.
+		It is an object oriented programming.
+			4 Rules of oops(Object Oriented Programming Structure)
+			  1.Encapsulation
+			  2.Abstraction
+			  3.Polymorphism
+			  4.Inheritance
+			  5.class
+			  6.Object
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
